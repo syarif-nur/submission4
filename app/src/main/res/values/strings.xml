@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Submission4</string>
+
+    <string name="tab_movie">Movies</string>
+    <string name="tab_tv">Tv Show</string>
+    <string name="tab_favorite">Favorite</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="title">Title :</string>
+    <string name="release">Release :</string>
+    <string name="description">Description :</string>
+    <string name="placeholder">There is no description yet</string>
+    <string name="detail_favorite">Favorite</string>
+    <string name="remove_favorite">Remove</string>
+
+
+</resources>

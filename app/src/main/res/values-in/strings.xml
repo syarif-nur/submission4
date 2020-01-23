@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv">Acara TV</string>
+    <string name="tab_favorite">Favorit</string>
+
+    <string name="title">Judul :</string>
+    <string name="release">Rilis :</string>
+    <string name="description">Deskripsi :</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="placeholder">Belum ada deskripsi</string>
+    <string name="detail_favorite">Favorit</string>
+
+
+</resources>
